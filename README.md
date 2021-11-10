@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tdelgio.
 - 👀 I’m interested in front-end development.
-- 🧠 Actually learning MERN stack.
 - 📫 Can reach me at tomas.dg@me.com.
 
 <!---
