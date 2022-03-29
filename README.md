@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tdelgio.
-- 👀 I’m interested in front-end development.
+- 👀 I’m interested in web development using GatsbyJS.
 - 📫 Can reach me at tomas.dg@me.com.
 
 <!---
