@@ -1,4 +1,5 @@
-👋 Hi, I’m @tdelgio, a passionate front-end developer based in Maui. 
+👋 Hi, I’m @tdelgio, a passionate front-end developer based in Maui.
+
 -I have a keen interest in crafting engaging and user-friendly web experiences. 
 
 <!---
