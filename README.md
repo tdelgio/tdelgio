@@ -2,7 +2,7 @@
 
 - I have a keen interest in crafting engaging and user-friendly web experiences.
   
-- Check out my lastest projects at https://tomasdg.site/portfolio/
+- Check out my lastest projects at https://tdelgio.site/portfolio/
 
 <!---
 tdelgio/tdelgio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
